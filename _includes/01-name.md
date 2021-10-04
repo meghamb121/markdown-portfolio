@@ -1,3 +1,3 @@
 # Hello everyone
-## Welcome to my  Portfolio
+## Welcome to my Portfolio
 ###### I am Megha
